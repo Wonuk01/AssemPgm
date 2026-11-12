@@ -4,7 +4,7 @@
 
 ## 실행 화면
 
-![평균 계산 프로그램 콘솔 출력 재현](images/execution-result.png)
+![평균 계산 프로그램 콘솔 출력 재현](./execution-result.png)
 
 > **안내:** 위 이미지는 `AverageCalculator.asm`의 출력 형식을 바탕으로 제작한 **재현 화면**입니다. 실제 MASM/Irvine32 환경에서 컴파일·실행하여 캡처한 결과는 아닙니다.
 
